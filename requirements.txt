@@ -1,0 +1,9 @@
+ Modules
+
+1. Keyboard  
+2. pynput
+
+Instalations
+
+1. pip install keyboard
+2. pip install pynput
